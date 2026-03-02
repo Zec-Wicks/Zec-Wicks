@@ -6,7 +6,9 @@ I'm passionate about more than just Computer Science (although, I do have a keen
 
 I have been the [GitHub Campus Expert](https://githubcampus.expert/Zec-Wicks/) 🚩 for [Flinders Unviersity](https://flinders.edu.au), and Adelaide since 2023.
 
-Some of my favourite programming languages are Python, Java, and C++ mainly because it is what I used in unversity, but Rust has quickly been becomming one of my favourites after is used it in the [https://adventofcode.com](Advent of Code) in 2025. In the future, I want to learn Go and Julia!
+Some of my favourite programming languages are Python, Java, and C++ mainly because it is what I used in unversity, but Rust has quickly been becomming one of my favourites after is used it in the [Advent of Code](https://adventofcode.com) in 2025.
+
+I am becoming increasingly passionate about open source software and self hosting.
 
 I have also started daily driving linux, and I am keen to get more familiar with LaTeX.
 
